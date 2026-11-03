@@ -2,8 +2,8 @@
 
 ## Student Information
 
-- Full name: YOUR NAME
-- Student ID: YOUR STUDENT ID
+- Full name: Nguyen Thanh Tai
+- Student ID: 25127134
 - Course: Computational Thinking
 
 ## Project Description
@@ -140,4 +140,4 @@ All tests passed!
 
 ## Demonstration Video
 
-TODO: Add the demonstration video link before submission.
+Link: https://drive.google.com/file/d/1p7VMDp2-4eGtHvBJ39l7L6sANLWMXXRG/view?usp=sharing
